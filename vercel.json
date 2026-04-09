@@ -1,8 +1,46 @@
 {
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/index.html"
-    }
-  ]
+  "phone": "205-222-5514",
+  "email": "agcommercialimprovements@gmail.com",
+  "images": [
+    "/images/1.jpg",
+    "/images/2.jpg",
+    "/images/3.jpg",
+    "/images/4.jpg",
+    "/images/5.jpg",
+    "/images/6.jpg",
+    "/images/7.jpg",
+    "/images/8.jpg",
+    "/images/9.jpg",
+    "/images/10.jpg"
+  ],
+  "es": {
+    "title": "AG Commercial Improvement",
+    "subtitle": "Expertos en reparaciones del hogar",
+    "servicesTitle": "Nuestros Servicios",
+    "services": [
+      "Reparaciones de casas",
+      "Pintura",
+      "Limpieza",
+      "Techos",
+      "Balcones",
+      "Canales"
+    ],
+    "gallery": "Trabajos Recientes",
+    "contact": "Contáctanos"
+  },
+  "en": {
+    "title": "AG Commercial Improvement",
+    "subtitle": "Home repair experts",
+    "servicesTitle": "Our Services",
+    "services": [
+      "House repair",
+      "Painting",
+      "Cleaning",
+      "Roof repair",
+      "Balcony repair",
+      "Gutters cleaning"
+    ],
+    "gallery": "Recent Work",
+    "contact": "Contact Us"
+  }
 }
